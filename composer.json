@@ -1,0 +1,20 @@
+{
+    "name": "rido60/restaurant",
+    "description": "sistema para un restaurante",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/"
+        },
+        "files": [
+            "app/helpers.php"
+        ]
+
+    },
+    "authors": [
+        {
+            "name": "Ricardo Mendez",
+            "email": "jrmjrido@gmail.com"
+        }
+    ],
+    "require": {}
+}
